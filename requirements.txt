@@ -1,0 +1,8 @@
+earthengine-api
+google-cloud-storage
+mysql-connector-python
+python-dotenv
+numpy
+rasterio
+shapely
+matplotlib
