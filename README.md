@@ -24,7 +24,7 @@ Automated satellite-based vegetation indices pipeline using Google Earth Engine 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/vegetation-indices-pipeline.git
+git clone https://github.com/starfiee/vegetation-indices-pipeline.git
 cd vegetation-indices-pipeline
 ```
 
