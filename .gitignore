@@ -1,3 +1,4 @@
 .env
+gee-key.json
 __pycache__/
 *.pyc
